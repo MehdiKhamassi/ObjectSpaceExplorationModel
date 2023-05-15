@@ -11,7 +11,7 @@ The code can be used for both model simulation and model fitting to rat/mouse ex
 	
 > The second version of this code goes with the following publication: Schut, E. H., Alonso, A., Smits, S., Khamassi, M., Samanta, A., Negwer, M., Nadif Kasri, N., Navarro Lobato, I. & Genzel, L. (2020). The Object Space Task reveals increased expression of cumulative memory in a mouse model of Kleefstra syndrome. Neurobiology of Learning and Memory, 173, 107265.
 	
-> The third version of this code goes with the following submission: Navarro Lobato et al. (in prep.) Increasing plasticity in the prelimbic cortex leads to more memory interference and changes in sleep and wake oscillations.
+> The third version of this code goes with the following publication: Navarro-Lobato, I., Aleman-Zapata, A., Samanta, A., Bogers, M., Narayanan, S., Rayan, A., Alonso, A., van der Meij, J., Khamassi, M., Khan, Z. and Genzel, L. (2023). Increased cortical plasticity leads to memory interference and enhanced hippocampal-cortical interactions. eLife. In press.
 
 ## Questions?
 
